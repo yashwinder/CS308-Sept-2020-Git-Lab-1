@@ -6,7 +6,7 @@ positive number. */
 #include <math.h>
 
 int main(int argc, char* argv[]) {
-	
+    print("conflict statement");
 	if (argc != 2) {
 		printf("Usage: sqrt input\n\n");
 		exit(-1);
